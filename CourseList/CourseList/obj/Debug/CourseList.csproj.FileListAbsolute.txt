@@ -1,0 +1,13 @@
+C:\Users\Ulvi\source\repos\CourseList\CourseList\bin\Debug\CourseList.exe.config
+C:\Users\Ulvi\source\repos\CourseList\CourseList\bin\Debug\CourseList.exe
+C:\Users\Ulvi\source\repos\CourseList\CourseList\bin\Debug\CourseList.pdb
+C:\Users\Ulvi\source\repos\CourseList\CourseList\obj\Debug\CourseList.csprojAssemblyReference.cache
+C:\Users\Ulvi\source\repos\CourseList\CourseList\obj\Debug\CourseList.csproj.CoreCompileInputs.cache
+C:\Users\Ulvi\source\repos\CourseList\CourseList\obj\Debug\CourseList.exe
+C:\Users\Ulvi\source\repos\CourseList\CourseList\obj\Debug\CourseList.pdb
+C:\Users\acer\source\repos\CourseList\CourseList\bin\Debug\CourseList.exe.config
+C:\Users\acer\source\repos\CourseList\CourseList\bin\Debug\CourseList.exe
+C:\Users\acer\source\repos\CourseList\CourseList\bin\Debug\CourseList.pdb
+C:\Users\acer\source\repos\CourseList\CourseList\obj\Debug\CourseList.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\CourseList\CourseList\obj\Debug\CourseList.exe
+C:\Users\acer\source\repos\CourseList\CourseList\obj\Debug\CourseList.pdb
